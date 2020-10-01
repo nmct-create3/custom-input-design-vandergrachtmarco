@@ -93,7 +93,7 @@
         --global-input-borderColor: var(--global-color-neutral-xxx-light);
         --global-input-hover-borderColor: var(--global-color-neutral-xx-light);
         --global-input-focus-borderColor: var(--global-color-alpha);
-        --global-input-boxShadow: 0 0 0 3px var(--global-color-alpha-x-transparent);
+        --global-input-boxShadow: 0 0 0 4px var(--global-color-alpha-x-transparent);
     }
     html {
         color: #fff !important;
